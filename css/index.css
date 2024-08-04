@@ -18,5 +18,5 @@ body {
   background-size: cover;
   -webkit-transition: background-image 1s ease-in-out;
   transition: background-image 3s ease-in-out;
-  background-image: url("/images/init.jpeg");
+  background-image: url("/images/init.png");
 }
