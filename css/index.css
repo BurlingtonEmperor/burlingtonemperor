@@ -26,3 +26,7 @@ body {
   transition: background-image 3s ease-in-out;
   background-image: url("/images/init.png");
 }
+
+.shadowy-text {
+  text-shadow: 2px 2px 5px #262626;
+}
